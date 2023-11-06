@@ -3,6 +3,8 @@
 Estudo de caso: Bioinformática - comparando genomas
 Neste estudo de caso, faremos a comparação entre duas sequências de DNA: (1) ser humano; vs. (2) bactéria.
 
+![Logo da Minha Aplicação](dna.jpeg)
+
 Estrutura do DNA. Fonte: https://se.wikipedia.org/wiki/Fiila:Dna-base-flipping.svg
 
 
@@ -29,7 +31,7 @@ Fonte: https://www.ncbi.nlm.nih.gov/nuccore/NR_024570.1?report=fasta
 
 
 
-
-
 Resultado final
 Como resultado final, geraremos uma figura que compara os DNAs visualmente.
+
+![Logo da Minha Aplicação](resultado_final.jpeg)
